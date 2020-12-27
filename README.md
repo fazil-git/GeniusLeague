@@ -2,7 +2,7 @@
 
 ###**Online secure quiz conducting/ranking application to test your IQ**
 
-###***Check out quick video demonstration: https://youtu.be/vMFrxoLYilY ***
+###**_Check out quick video demonstration:_** https://youtu.be/vMFrxoLYilY
 
 ##Task:
 Build an interactive quiz conducting web application which fetches quiz data from database, evaluates the user's answers and updates the database. Also it should authenticate existing user, create new user, user profile visualization, session management and logout facility. In addition to that it should show leaderboard list with ranking based on score.
